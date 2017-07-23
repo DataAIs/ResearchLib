@@ -1,5 +1,4 @@
-# researchlib
-Repository of papers on ML and DL
+# researchlib - Repository of papers on ML and DL
 
 Folder Name: Topic
 
